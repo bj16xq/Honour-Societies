@@ -4,6 +4,8 @@ This repository hosts information on and files for open co-curricular practices 
 
 This content draws from the paradigm of open co-curricular practices (see the [OSF page](https://doi.org/10.17605/OSF.IO/63ZQ8)).
 
+Most resources are provided in markup language such as markdown (.md) and HTML (.html).
+
 **Disclaimer:** Content herein reflects individual grassroots work by student leaders and is not official material endorsed by Golden Key International Headquarters or any other honour society.
 
 For explanations of each resource, please view [the Wiki.](https://github.com/bj16xq/Honour-Societies/wiki)
